@@ -8,6 +8,13 @@ I am excited to transition into a data analyst role, where I can apply my techni
 
 This repository serves as a platform to demonstrate my skills, share projects, and keep a record of my growth in Data Analytics / Data Science.
 
+<!--
+- [Study Project](#study-projects)
+  - Business Analytics
+  - Statistics for Business
+  - Relational Database (SQL)
+  - Data Visualization & Wrangling
+  - Basic Python Programming || Python for Software Engineering-->
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
@@ -19,8 +26,23 @@ This repository serves as a platform to demonstrate my skills, share projects, a
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
+
+<!--
+## Study Projects
+In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or while just having fun with data and code.
+
+### Ad Performance Analysis
+- **Description:**
+- **[Repository](https://github.com/deddylx/Ads-Performance-Analysis)**
+
+
+### Basic Python Programming || Python for Software Engineering
+- **Description:** This is a 2 month course by pacmann.io. This course will help you to understand Python programming as a tool or foundation for data processing, visualization, machine learning modeling, and data analysis.
+- **Repository**
+###
+-->
 ## Portfolio Projects
-In this section, I will showcase data analytics projects with a brief overview of the technology stack used to address each case, along with links to my GitHub repositories containing code and Jupyter notebooks.
+In this section, I will showcase data analytics projects with a brief overview of the technology stack used to address each case, along with links to my GitHub repositories containing codes.
 
 ### Used Car E-Commerce Platform
 - **Description:** This project focuses on building a relational database for a used car sales website. The database will allow users to post advertisements for their used cars and enable potential buyers to search for vehicles based on specific criteria such as brand, model, year, price, and mileage. This project demonstrates the application of SQL in designing and managing a database for a real-world e-commerce platform.
@@ -29,12 +51,7 @@ In this section, I will showcase data analytics projects with a brief overview o
 - **Technology:** PostgreSQL
 - **[Repository](https://github.com/deddylx/Used-Car-E-Commerce-Platform)**
 ##
-### Ad Performance Analysis
-- **Description:**
-- **Objectives:**
-- **Skills:** data cleaning, data analysis, data visualization
-- **Technology:** Tableau
-- **[Repository](https://github.com/deddylx/Ads-Performance-Analysis)**
+
 
 ## Experience
 - 2019-Present: Building and Housing Engineer | Performance Monitoring Analyst
@@ -42,6 +59,13 @@ In this section, I will showcase data analytics projects with a brief overview o
 - 2015-2017: Architect | Site and Program Analyst
 
 ## Certificates
+
+- [Business Analytics in Multiple Departments & Industries](https://sertifikat.pacmann.ai/Mmk2eOJ5dRscdLo) - pacmann.io | Jan 2025
+- [Statistics for Business](https://sertifikat.pacmann.ai/mN9MgR3mIU9nb9N) - pacmann.io | Nov 2024
+- [SQL (Intermediate)](https://www.hackerrank.com/certificates/9572129e9ab6) - hackerrank | Sep 2024
+- [PostgreSQL & Relational Database](https://sertifikat.pacmann.ai/mUziXfKmDksoLnA) - pacmann.io | Sep 2024
+- [Data Visualization with Tableau || Data Wrangling with Pandas](https://sertifikat.pacmann.ai/ENpHvF2BtWqmtko) - pacmann.io | Jul 2024
+- [Basic Python Programming || Python for Software Engineering](https://sertifikat.pacmann.ai/zVFBIstSuP7RqnC) - pacmann.io | May 2024
 
 ## Education
 Sepuluh Nopember Intitute of Technology, Indonesia: Bachelor's degree, Architecture, 2011 - 2015
