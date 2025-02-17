@@ -18,11 +18,8 @@ This repository serves as a platform to demonstrate my skills, share projects, a
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  - SQL
-    - [Used Car E-Commerce Platform](#used-car-e-commerce-platform)
-  - Tableau
-  - Excel
-  - Python
+  - [Paid Search Campaign Analysis](#paid-search-campaign-analysis)
+  - [Used Car E-Commerce Platform](#used-car-e-commerce-platform)
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
@@ -44,13 +41,18 @@ In this section I will provide links to my github repositories containing code a
 ## Portfolio Projects
 In this section, I will showcase data analytics projects with a brief overview of the technology stack used to address each case, along with links to my GitHub repositories containing codes.
 
+### Paid Search Campaign Analysis
+- **Description:** Conducted analysis in SQL and Python to uncover insights on campaign performance and customer engagement for a Kaggle-derived Shopping Mall Paid Search Campaign dataset containing a 5-months ad records. Worked independently for two weeks to clean, transform, and analyze the data, identifying key metrics such as click-through rates (CTR), cost-per-click (CPC), and return on ad spend (ROAS). Built an interactive dashboard in Tableau to visualize trends related to campaign performance and ad spend efficiency. 
+- **Skills:** data cleaning, data analysis, descriptive statistics, data visualization
+- **Technology:** PostgreSQL, Python, Pandas, Numpy, Seaborn, Matplotlib, Tableau
+- **[go to repo-->](https://github.com/deddylx/paid-search-campaign)**
+
 ### Used Car E-Commerce Platform
 - **Description:** This project focuses on building a relational database for a used car sales website. The database will allow users to post advertisements for their used cars and enable potential buyers to search for vehicles based on specific criteria such as brand, model, year, price, and mileage. This project demonstrates the application of SQL in designing and managing a database for a real-world e-commerce platform.
 - **Objectives:** to create a structured and efficient system for managing user data, advertisements, and search functionalities, ensuring a seamless experience for both sellers and buyers.
 - **Skills:** DDL (Data Definition Language), DML(Data Manipulation Language), DQL (Data Query Language)
 - **Technology:** PostgreSQL
-- **[Repository](https://github.com/deddylx/Used-Car-E-Commerce-Platform)**
-##
+- **[go to repo-->](https://github.com/deddylx/Used-Car-E-Commerce-Platform)**
 
 
 ## Experience
