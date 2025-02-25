@@ -1,4 +1,4 @@
-# Data-Analysis-Portfolio
+# Deddy Putra - Data Analysis Portfolio
 ## About
 Hi, I'm Deddy! I have an analytical background in Architecture and a strong foundation in data-driven decision-making. My experience spans roles as a Junior Architect, Site and Program Analyst, Market Research Analyst, and Building and Housing Engineer, where I honed my skills in performance monitoring, data analysis, and problem-solving.
 
