@@ -19,6 +19,7 @@ This repository serves as a platform to demonstrate my skills, share projects, a
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - [Paid Search Campaign Analysis](#paid-search-campaign-analysis)
+  - [HR Attrition Analysis](#hr-attrition-analysis)
   - [Used Car E-Commerce Platform](#used-car-e-commerce-platform)
 - [Education](#education)
 - [Certificates](#certificates)
