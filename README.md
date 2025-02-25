@@ -43,9 +43,15 @@ In this section, I will showcase data analytics projects with a brief overview o
 
 ### Paid Search Campaign Analysis
 - **Description:** Conducted analysis in SQL and Python to uncover insights on campaign performance and customer engagement for a Kaggle-derived Shopping Mall Paid Search Campaign dataset containing a 5-months ad records. Worked independently for two weeks to clean, transform, and analyze the data, identifying key metrics such as click-through rates (CTR), cost-per-click (CPC), and return on ad spend (ROAS). Built an interactive dashboard in Tableau to visualize trends related to campaign performance and ad spend efficiency. 
-- **Skills:** data cleaning, data analysis, descriptive statistics, data visualization
+- **Skills:** data cleaning & transformation, data analysis, data visualization, problem solving
 - **Technology:** PostgreSQL, Python, Pandas, Numpy, Seaborn, Matplotlib, Tableau
 - **[go to repo-->](https://github.com/deddylx/paid-search-campaign)**
+
+### HR Attrition Analysis
+- **Description:** This project focuses on analyzing employee attrition and workplace satisfaction using a dataset containing 1,480 employee records. The analysis identifies key metrics such as attrition rate, average monthly income, and employee satisfaction levels. An interactive dashboard was created in Tableau to visualize trends related to attrition by department, job role, gender, and age. The project aims to provide actionable insights for improving employee retention and workplace satisfaction. 
+- **Skills:** data cleaning, data analysis, descriptive statistics, data visualization
+- **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Tableau
+- **[go to repo-->](https://github.com/deddylx/hr-attrition-analysis/tree/main)**
 
 ### Used Car E-Commerce Platform
 - **Description:** This project focuses on building a relational database for a used car sales website. The database will allow users to post advertisements for their used cars and enable potential buyers to search for vehicles based on specific criteria such as brand, model, year, price, and mileage. This project demonstrates the application of SQL in designing and managing a database for a real-world e-commerce platform.
@@ -73,5 +79,8 @@ In this section, I will showcase data analytics projects with a brief overview o
 Sepuluh Nopember Intitute of Technology, Indonesia: Bachelor's degree, Architecture, 2011 - 2015
 
 ## Contacts
+For questions or feedback, feel free to reach out:
+- Name: Deddy Laudryansyah Putra
+- Email: ldeddy25@gmail.com
 - LinkedIn: [@deddyl](https://www.linkedin.com/in/deddyl/)
-- Email: [ldeddy25@gmail.com](mailto:ldeddy25@gmail.com)
+- GitHub: [deddylx](https://github.com/deddylx)
