@@ -82,6 +82,6 @@ Sepuluh Nopember Intitute of Technology, Indonesia: Bachelor's degree, Architect
 ## Contacts
 For questions or feedback, feel free to reach out:
 - Name: Deddy Laudryansyah Putra
-- Email: ldeddy25@gmail.com
+- Email: deddy.l.putra@gmail.com
 - LinkedIn: [@deddyl](https://www.linkedin.com/in/deddyl/)
 - GitHub: [deddylx](https://github.com/deddylx)
